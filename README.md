@@ -1,7 +1,7 @@
 # New Tab New Quote(Chrome Extension)
 A Chrome extension which shows a new quote on each new tab. FavQs API is used to get the quote. The getQuote() function is triggered as soon as a new tab is opened. 
 ## Links
-[Chrome Extension](https://chrome.google.com/webstore/detail/new-tab-new-quote/nlfajjcnlhjdhdpihohlandlnhebfadd?hl=en)
+[Chrome Store](https://chrome.google.com/webstore/detail/new-tab-new-quote/nlfajjcnlhjdhdpihohlandlnhebfadd?hl=en)
 
 [FavQs API Docs](https://favqs.com/api)
 ## Screenshot
